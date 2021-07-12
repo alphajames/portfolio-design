@@ -1,0 +1,106 @@
+
+
+body{
+    font-family: 'Poppins',sans-serif !important;
+}
+a{
+    outline: none !important;
+    text-decoration: none !important;
+}
+ul{
+    list-style-type: none;
+}
+/* HEADING SECTION */
+.img-1{
+    margin: -110px 0px 0px 50px;
+    width: 65%;
+}
+.textcontainer-1{
+    margin-top: 150px;
+}
+
+
+/* ABOUT SECTION */
+.img-2{
+    width: 50%;
+}
+.textcontainer-3{
+    margin-top: 150px;
+}
+
+/* PROJECTS SECTION */
+.btn-white{
+    border-radius: 12px !important;
+    outline: none;
+    background-color: #c7c8ca  !important;
+}
+.textcontainer-8{
+    padding: 50px 0px 0px 0px;
+}
+
+/* DESIGN SECTION */
+
+.textelement-1{
+    padding-top: 20px;
+}
+@media (max-width: 1080px){
+    .img-1{
+        margin: 20px 0px 0px 0px !important;
+    }
+    .img-2{
+        display: none;
+    }
+    .img-4{
+        width: 50%;
+    }
+    .img-5{
+        width: 50%;
+    }
+    .img-8{
+        width: 50%;
+    }
+    .mobile-7xl{
+        font-size: 3.2rem !important;
+    }
+}
+@media (max-width: 600px){
+    
+}
+@media (max-width: 450px){
+    .mobile-2xl{
+        font-size: 1.15rem !important;
+    }
+    .mobile-3xl{
+        font-size: 1.875rem !important;
+    }
+    .mobile-7xl{
+        font-size: 3.2rem !important;
+    }
+    .textcontainer-1{
+        margin-top: 50px;
+    }
+
+    .img-1{
+        margin: 20px 0px 0px 0px !important;
+    }
+    .img-2{
+        display: none;
+    }
+    .img-3{
+        width: 105%;
+    }
+    .img-4{
+        width: 90%;
+        padding-top: 40px;
+    }
+    .img-6{
+        width: 20%;
+    }
+    .img-7{
+        width: 50%;
+    }
+    .img-9{
+        display: none;
+    }
+
+}
