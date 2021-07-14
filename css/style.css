@@ -39,7 +39,9 @@ ul{
 }
 
 /* DESIGN SECTION */
-
+.img-6{
+    width: 10%;
+}
 .textelement-1{
     padding-top: 20px;
 }
@@ -54,13 +56,13 @@ ul{
         width: 50%;
     }
     .img-5{
-        width: 50%;
+        width: 80%;
     }
     .img-8{
         width: 50%;
     }
     .mobile-7xl{
-        font-size: 3.2rem !important;
+        font-size: 3.7rem !important;
     }
 }
 @media (max-width: 600px){
@@ -88,6 +90,9 @@ ul{
     }
     .img-3{
         width: 105%;
+    }
+    .img-5{
+        width: 90%;
     }
     .img-4{
         width: 90%;
